@@ -18,8 +18,8 @@ STEP 6:End
 ```
 /*
 Program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor.
-Developed by: SAI SANJAY R
-RegisterNumber:  212223040178
+Developed by: TH KARTHIK KRISHNA
+RegisterNumber:  212223240067
 */
 
 import numpy as np
